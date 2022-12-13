@@ -1,0 +1,14 @@
+body{
+    background-color: #FAEAB1;}
+
+hr
+{
+border-top: 5px dotted  #E5BA73;
+border-style: dotted none none;
+width: 5%;
+background-color: #FAEAB1;
+}
+h1 
+    {color: #C58940;
+    font-family: Arial;}
+h3 {color: #C58940;}
